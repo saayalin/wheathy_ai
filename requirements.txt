@@ -1,3 +1,2 @@
 streamlit
-ollama
 pyarrow==16.1.0
